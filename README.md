@@ -6,7 +6,7 @@ The project's main focus is on asynchronous programming in Dart where time consu
 The weather app is inspired by the beautiful designs made by [Emre Pektas](https://dribbble.com/shots/5771773-Weather-App).
 
 
-![Finished App]()
+![Finished App](https://github.com/ScottLee97/weather_app/blob/master/images/weatherapp.png)
 
 ## Certain key concepts that are used include
 
